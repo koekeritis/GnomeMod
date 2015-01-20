@@ -1,0 +1,37 @@
+[
+{
+  
+	"modid": "GnomeMod",
+  
+	"name": "Gnome mod",
+  
+	"description": "Gnomes in minecraft!",
+  
+	"version": "0.2.3",
+  
+	"mcversion": "1.7.10",
+  
+	"url": "",
+  
+	"updateUrl": "",
+  
+	"authorList": [
+ 
+	   "koekeritis"
+  
+	],
+  
+	"credits": "Thanks to (mostly) pahimar & minemaarten for their tut's",
+  
+	"logoFile": "",
+ 
+ 	"screenshots": [
+  ],
+  
+	"parent":"",
+  
+	"dependencies": [
+  ]
+
+}
+]
