@@ -106,7 +106,6 @@ public class EntityGnomeModel2 extends ModelBase {
         this.hatStrip4.addChild(this.hatStrip5);
         this.hatStrip7.addChild(this.hatStrip8);
         this.hatStrip3.addChild(this.hatStrip4);
-        this.body.addChild(this.upperBody);
     }
 
     @Override
